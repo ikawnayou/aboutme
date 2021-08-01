@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+}
+.Me {
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    font-family: 'Windsong', cursive;
+}
+.newbie {
+    font-size: 20px;
+    font-weight: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 55px;
+}
+img {
+    width: 100%;
+    height: 600px;
+}
+p {
+    margin: 20px 0 0 0;
+}
+h1 {
+    font-family: 'WindSong', cursive;
+    font-size: 70px;
+    line-height: 70px;
+}
+
+
+.skill-row {
+    width: 40%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    font-family: 'Style Script', cursive;
+   
+}
+
+.skill {
+    width: 15%;
+    height: 15%;
+    float: right;
+    
+}
+
+.comp {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.web {
+    width: 15%;
+    height: 15%;
+    float: right;
+  
+}
+
+.dot {
+    border: 12px;
+    border-style: dotted;
+    border-bottom-style: none;
+    width: 60px;
+    color:grey;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+.about {
+    font-family: 'Style Script', cursive;
+    margin: 0 auto 30px auto;
+    width: 40%;
+    position: relative;
+    bottom: 100px;
+    
+}
+
+.pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+ }
+
+.line {
+    line-height: 2;
+}
+
+.foot {
+    background: rgb(72, 189, 209);
+    font-family: 'Style Script', cursive;
+    margin-top: 10px;
+    padding-bottom:10px;
+     
+}
+.align li {
+    margin-top: 5px;
+    padding: 0 10px 0 10px;
+    display: inline-block;
+    margin-bottom: 0;
+   
+
+}
+.foot h3 {
+    padding-top: 8px;
+}
+.foot p {
+
+    margin-top: 0;
+}
+.foot li {
+    color: rgb(78, 148, 38);
+}

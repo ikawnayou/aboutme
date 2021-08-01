@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(../NMP/img/church.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+h1 {
+    text-align: center;
+    padding: 100px;
+    padding-bottom: 10px;
+    font-size: 70px;
+}
+.fill {
+    height:300px;
+    width: 200px;
+    text-align: center;
+    margin-top: 30px;
+    border: 2px solid;
+    position: absolute;
+    right: 40%;
+    background-color: greenyellow;
+    padding-top: 10px;
+}
+.fill h2 {
+    margin-bottom: 20px;
+}
